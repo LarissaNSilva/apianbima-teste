@@ -4,15 +4,15 @@ A aplicação utiliza a API da ANBIMA (Associação Brasileira das Entidades dos
 
 É necessário acessar o site: https://admin-developers.anbima.com.br/api-portal/user/register e realizar um cadastro para obter as chaves: Client ID e Client Secret. E a partir dessa api: https://api-sandbox.anbima.com.br/oauth/access-token gerar a chave: "acess-token".
 
-Informações disponíveis na api:
+  Informações disponíveis na api:
 
-  codigo_fundo	
-  nome_fantasia		
-  cnpj_fundo	
-  classe_anbima	
-  situacao_atual	
-  data_inicio_divulgacao_cota
-  data_atualizacao
+    codigo_fundo	
+    nome_fantasia		
+    cnpj_fundo	
+    classe_anbima	
+    situacao_atual	
+    data_inicio_divulgacao_cota
+    data_atualizacao
   
   Tecnologias Utilizadas:
   
