@@ -6,13 +6,13 @@ A aplicação utiliza a API da ANBIMA (Associação Brasileira das Entidades dos
 
 Informações disponíveis na api:
 
-  . codigo_fundo	
-  . nome_fantasia		
-  . cnpj_fundo	
-  . classe_anbima	
-  . situacao_atual	
-  . data_inicio_divulgacao_cota
-  . data_atualizacao
+  codigo_fundo	
+  nome_fantasia		
+  cnpj_fundo	
+  classe_anbima	
+  situacao_atual	
+  data_inicio_divulgacao_cota
+  data_atualizacao
   
   Tecnologias Utilizadas:
   
